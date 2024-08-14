@@ -1,1 +1,11 @@
-# nomestermo
+Notar 
+Notas 
+Texto 
+Aluno 
+Prova 
+Teses 
+Livra 
+Leram 
+Disco 
+Aulas 
+Pluma
